@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Client reporting portal app
+- 🔭 I’m currently working on ... A client reporting portal app
 - 🌱 I’m currently learning ... Swift IOS Development
 - 👯 I’m looking to collaborate on ... Coding volunteer experience
 - 🤔 I’m looking for help with ... Testing and deploying projects
