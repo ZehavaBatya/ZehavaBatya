@@ -13,6 +13,10 @@
 - 😄 Pronouns: ... She/Her/Hers
 - ⚡ Fun fact: ... I am a rock drummer
 
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
+
+Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+
 <!--
 **ZehavaBatya/ZehavaBatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
