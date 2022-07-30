@@ -13,9 +13,6 @@
 - 😄 Pronouns: ... She/Her/Hers
 - ⚡ Fun fact: ... I am a rock drummer
 
-<h2 align="center">⚡ Stats ⚡</h2>
-(https://github-readme-stats.vercel.app/api?username=zehavabatyas &theme=radical)
-
 <!--
 **ZehavaBatya/ZehavaBatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
