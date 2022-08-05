@@ -4,8 +4,8 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ZehavaBatya)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/annaliesebronz/)
 
-- 🔭 I’m currently working on ... Final debugging for a summer presentation
-- 🌱 I’m currently learning ... Swift IOS Development
+- 🔭 I’m currently working on ... Building my portfolio
+- 🌱 I’m currently learning ... Java
 - 👯 I’m looking to collaborate on ... Coding volunteer experience
 - 🤔 I’m looking for help with ... Testing and deploying projects
 - 💬 Ask me about ... Music, theater, vegan eats
