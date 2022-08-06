@@ -13,7 +13,7 @@
 - 😄 Pronouns: ... She/Her/Hers
 - ⚡ Fun fact: ... I am a rock drummer
 
-[![trophy](https://github-profile-trophy.vercel.app/ZehavaBatya=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"><a href="https://github.com/zehavabatya/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&custom_title=GitHub Stats" alt="GitHub Stats" /></a></p>
 
 <!--
 **ZehavaBatya/ZehavaBatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
