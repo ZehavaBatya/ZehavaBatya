@@ -15,6 +15,11 @@
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=zehavabatya&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&custom_title=GitHub Stats" alt="GitHub Stats" /></a></p>
 
+<h2 align="center">GitHub Trophies</h2>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=zehavabatya&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
+
+
 <!--
 **ZehavaBatya/ZehavaBatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
