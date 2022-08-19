@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Annaliese
+### Hi there, I'm Annaliese <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/annalieseb/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ZehavaBatya)
