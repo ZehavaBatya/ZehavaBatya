@@ -4,12 +4,12 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ZehavaBatya)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/annaliesebronz/)
 
-- 🔭 I’m currently working on ... Building my portfolio
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ... Coding volunteer experience
-- 🤔 I’m looking for help with ... Testing and deploying projects
+- 🔭 I’m currently working on ... Building my career resume and portfolio
+- 🌱 I’m currently learning ... C++
+- 👯 I’m looking to collaborate on ... Open source and grassroot projecs
+- 🤔 I’m looking for help with ... Technical book recommendations
 - 💬 Ask me about ... Music, theater, vegan eats
-- 📫 How to reach me: ... Business Cell: +1 (631)-609-4374
+- 📫 How to reach me: ... Business Cell: +1 (631)-609-4374. E-mail: annaliese.bronz@baruchmail.cuny.edu
 - 😄 Pronouns: ... She/Her/Hers
 - ⚡ Fun fact: ... I am a rock drummer
 
