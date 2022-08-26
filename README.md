@@ -24,8 +24,8 @@
     <td width="50%" valign="top">
       <h3 align="center">E-commerce Entrepreneur</h3>
         <br />
-        <a target="_blank" href="https://sendspark.com/share/or8kgwqgpmjlerhc>
-            <img src="[images/gif1.gif](https://sendspark.com/share/or8kgwqgpmjlerhc)" width="100%" alt="Shopping Site"/>
+        <a target="_blank" href="https://www.danielleindoodles.com/"
+            <img src="images/DID.gif" width="100%" alt="Shopping Site"/>
         </a>
         <br />
         <p align="center">
