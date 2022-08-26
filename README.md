@@ -1,4 +1,4 @@
-### Hi there, I'm Annaliese 
+### Hi there, I'm Annaliese!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/annalieseb/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ZehavaBatya)
@@ -25,8 +25,7 @@
       <h3 align="center">E-commerce Entrepreneur</h3>
         <br />
         <a target="_blank" href="https://www.danielleindoodles.com/"
-            <img src="images/DID.gif" width="100%" alt="Shopping Site"/>
-        </a>
+            <img src="images/DID_vid.gif" width="100%" alt="Shopping Site"/>
         <br />
         <p align="center">
 
