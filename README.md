@@ -17,6 +17,18 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=zehavabatya&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">E-commerce Entrepreneur</h3>
+        <br />
+        <a target="_blank" href="https://sendspark.com/share/or8kgwqgpmjlerhc>
+            <img src="images/gif1.gif" width="100%" alt="Shopping Site"/>
+        </a>
+        <br />
+        <p align="center">
 
 <!--
 **ZehavaBatya/ZehavaBatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
