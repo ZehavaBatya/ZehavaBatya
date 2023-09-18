@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ... Open source and grassroot projecs
 - 🤔 I’m looking for help with ... Technical book recommendations
 - 💬 Ask me about ... Music, theater, vegan eats
-- 📫 How to reach me: ... Business Cell: +1 (631)-609-4374. E-mail: annaliese.bronz@baruchmail.cuny.edu
+- 📫 How to reach me: ... Business Cell: +1 (631)-609-4374. E-mail: myworldwillneverknow@gmail.com
 - 😄 Pronouns: ... She/Her/Hers
 - ⚡ Fun fact: ... I am a rock drummer
 
