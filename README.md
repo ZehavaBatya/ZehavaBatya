@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/annaliesebronz/)
 
 - 🔭 I’m currently working on ... Building my career resume and portfolio
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... Open source and grassroot projecs
 - 🤔 I’m looking for help with ... Technical book recommendations
 - 💬 Ask me about ... Music, theater, vegan eats
